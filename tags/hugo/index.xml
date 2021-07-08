@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 從菜鳥到職場</title>
+    <link>https://nclinPatrick.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on 從菜鳥到職場</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 07 Jul 2021 23:00:00 +0800</lastBuildDate><atom:link href="https://nclinPatrick.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>談寫部落格這件事</title>
+      <link>https://nclinPatrick.github.io/blog/post_20210707/</link>
+      <pubDate>Wed, 07 Jul 2021 23:00:00 +0800</pubDate>
+      
+      <guid>https://nclinPatrick.github.io/blog/post_20210707/</guid>
+      <description>前言 其實架一個個人網站用來寫部落格與技術筆記這個念頭已經在心中萌芽很久了，學生時期的我一直覺得這是一件很帥氣，看起來很專業的舉動
+但無奈還在大學的時候，被雙主修的課追著跑，畢業後又忙著入伍、唸英文準備出國留學、找工作，一直沒有空來完成這件計畫很久的目標
+幸好，在深受疫情影響的當下，我花了一個月左右的時間就找到了還算不錯的工作，終於有空來好好的架設我的個人網站了
+尋找部落格平台 準備打造個人網站的第一步，便是尋找適合的平台，這邊我的主要訴求為:
+ 介面簡單方便，能讓我專注於寫作上 使用過markdown語法做過筆記後便回不去了，希望能繼續用markdown寫文章 初入社會，當然有能不收費的最好 能稍微有點個人化設計 SEO不要太差，畢竟文章寫出來還是希望有人看到  這期間我找過了很多的架站平台，但令人難過的是竟然沒有一個完全符合我的需求。</description>
+    </item>
+    
+  </channel>
+</rss>
